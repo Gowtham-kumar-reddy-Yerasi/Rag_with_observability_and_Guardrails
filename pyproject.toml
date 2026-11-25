@@ -1,0 +1,39 @@
+[project]
+name = "agent-rag01"
+version = "0.2.0"
+description = "RAG-only LangGraph agent with input guardrails, RAGAS evaluation and Phoenix observability"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    # --- agent / API ---
+    "langgraph>=1.2,<2",
+    "langchain-core>=1.8,<2",
+    "langchain-community>=0.4,<0.5",
+    "langchain-text-splitters>=1.1,<2",
+    "langchain-huggingface>=1.2,<2",
+    "langchain-groq>=1.2,<2",
+    # langchain-pinecone 0.2.x requires pinecone<8
+    "langchain-pinecone>=0.2.13,<0.3",
+    "pinecone>=7.3,<8",
+    "sentence-transformers>=6.3,<7",
+    "pypdf>=7,<8",
+    "fastapi>=0.165,<1",
+    "python-multipart>=0.0.34",
+    "uvicorn>=0.54",
+    "pydantic>=2.14,<3",
+    "python-dotenv>=1.2,<2",
+    "requests>=2.34,<3",
+    # --- UI ---
+    "streamlit>=1.67,<2",
+    # --- evaluation ---
+    "ragas>=0.4.4,<0.5",
+    "datasets>=5.2.0",
+    "pandas>=2",
+    # --- observability (Arize Phoenix, open source) ---
+    "arize-phoenix>=20,<21",
+    "arize-phoenix-otel>=0.17,<0.18",
+    "openinference-instrumentation-langchain>=0.1.90,<0.2",
+]
+
+[dependency-groups]
+dev = ["pytest>=9,<10"]

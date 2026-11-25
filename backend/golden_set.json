@@ -1,0 +1,263 @@
+[
+  {
+    "id": "q01",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "What is an internal combustion engine?",
+    "question": "What are the four strokes of the four-stroke engine cycle?",
+    "reference": "The four strokes are intake, compression, power and exhaust.",
+    "reference_contexts": [
+      "In the intake stroke the piston moves down and draws air, and fuel in petrol engines, into the cylinder.",
+      "In the exhaust stroke the piston moves up again and pushes the burnt gases out through the exhaust valve."
+    ]
+  },
+  {
+    "id": "q02",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "What is an internal combustion engine?",
+    "question": "How is the fuel ignited in a diesel engine compared with a petrol engine?",
+    "reference": "Petrol engines ignite the mixture with a spark plug, while diesel engines have no spark plugs and rely on the heat of compression.",
+    "reference_contexts": [
+      "Petrol engines ignite the mixture with a spark plug, while diesel engines have no spark plugs and rely on the heat of compression."
+    ]
+  },
+  {
+    "id": "q03",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "Types of vehicles by powertrain",
+    "question": "Which technologies do modern diesel vehicles use to control emissions?",
+    "reference": "They use a diesel particulate filter (DPF) and selective catalytic reduction (SCR) with an AdBlue (urea) solution.",
+    "reference_contexts": [
+      "Modern diesels therefore use a diesel particulate filter (DPF) and selective catalytic reduction (SCR) with an AdBlue (urea) solution."
+    ]
+  },
+  {
+    "id": "q04",
+    "answerable": true,
+    "question_type": "reasoning",
+    "source_section": "Types of vehicles by powertrain",
+    "question": "Why do diesel vehicles need a particulate filter and AdBlue even though they are more fuel efficient?",
+    "reference": "Diesels are more fuel efficient and deliver high torque, but they emit more nitrogen oxides (NOx) and particulates, so modern diesels use a DPF and SCR with AdBlue to control them.",
+    "reference_contexts": [
+      "They are more fuel efficient and deliver high torque, but emit more nitrogen oxides (NOx) and particulates.",
+      "Modern diesels therefore use a diesel particulate filter (DPF) and selective catalytic reduction (SCR) with an AdBlue (urea) solution."
+    ]
+  },
+  {
+    "id": "q05",
+    "answerable": true,
+    "question_type": "comparison",
+    "source_section": "Types of vehicles by powertrain",
+    "question": "What is the difference between a hybrid electric vehicle (HEV) and a plug-in hybrid (PHEV)?",
+    "reference": "An HEV combines an engine with an electric motor and a small battery charged by regenerative braking and the engine, and it cannot be plugged in. A PHEV has a larger battery that can be charged from the grid and typically offers 30 to 80 km of electric-only range.",
+    "reference_contexts": [
+      "A hybrid electric vehicle (HEV) combines an engine with an electric motor and a small battery that is charged by regenerative braking and the engine; it cannot be plugged in.",
+      "A plug-in hybrid (PHEV) has a larger battery that can be charged from the grid and typically offers 30 to 80 km of electric-only range."
+    ]
+  },
+  {
+    "id": "q06",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "Types of vehicles by powertrain",
+    "question": "Which maintenance items does a battery electric vehicle not need?",
+    "reference": "A battery electric vehicle has no oil changes, spark plugs or exhaust system.",
+    "reference_contexts": [
+      "A BEV has no oil changes, spark plugs or exhaust system."
+    ]
+  },
+  {
+    "id": "q07",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "Types of vehicles by powertrain",
+    "question": "What is the only tailpipe emission of a fuel cell electric vehicle?",
+    "reference": "The only tailpipe emission is water vapour.",
+    "reference_contexts": [
+      "The only tailpipe emission is water vapour."
+    ]
+  },
+  {
+    "id": "q08",
+    "answerable": true,
+    "question_type": "list",
+    "source_section": "Factors that cause breakdowns",
+    "question": "What factors can cause engine failure according to the document?",
+    "reference": "Low or dirty engine oil, overheating caused by a coolant leak or a faulty thermostat, and a worn timing belt or timing chain.",
+    "reference_contexts": [
+      "Low or dirty engine oil",
+      "Overheating caused by a coolant leak or a faulty thermostat",
+      "A worn timing belt or timing chain"
+    ]
+  },
+  {
+    "id": "q09",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "Factors that cause breakdowns",
+    "question": "How long does a 12-volt lead-acid car battery typically last?",
+    "reference": "A 12-volt lead-acid battery typically lasts 3 to 5 years.",
+    "reference_contexts": [
+      "a 12-volt lead-acid battery typically lasts 3 to 5 years"
+    ]
+  },
+  {
+    "id": "q10",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "Factors that cause breakdowns",
+    "question": "At what tyre tread depth are tyres considered worn out, according to the document?",
+    "reference": "Tread worn below 1.6 mm is a risk factor, and 1.6 mm is the legal minimum in many countries.",
+    "reference_contexts": [
+      "Tread worn below 1.6 mm, the legal minimum in many countries"
+    ]
+  },
+  {
+    "id": "q11",
+    "answerable": true,
+    "question_type": "list",
+    "source_section": "Warning signs",
+    "question": "What do blue-grey, white and black exhaust smoke each indicate?",
+    "reference": "Blue-grey smoke indicates burning oil, thick white smoke suggests coolant is entering the combustion chamber, and black smoke indicates excess fuel.",
+    "reference_contexts": [
+      "Blue-grey exhaust smoke indicates burning oil, thick white smoke suggests coolant is entering the combustion chamber, and black smoke indicates excess fuel."
+    ]
+  },
+  {
+    "id": "q12",
+    "answerable": true,
+    "question_type": "list",
+    "source_section": "Warning signs",
+    "question": "What are the warning signs of a brake problem?",
+    "reference": "Squealing or grinding noises, a soft pedal, the car pulling to one side, or longer stopping distances.",
+    "reference_contexts": [
+      "Squealing or grinding noises, a soft pedal, the car pulling to one side, or longer stopping distances."
+    ]
+  },
+  {
+    "id": "q13",
+    "answerable": true,
+    "question_type": "reasoning",
+    "source_section": "Consequences of neglect",
+    "question": "What can happen if a timing belt snaps?",
+    "reference": "A snapped timing belt can destroy the valves in an interference engine.",
+    "reference_contexts": [
+      "A snapped timing belt, which can destroy the valves in an interference engine"
+    ]
+  },
+  {
+    "id": "q14",
+    "answerable": true,
+    "question_type": "reasoning",
+    "source_section": "Consequences of neglect",
+    "question": "How can engine misfires damage the catalytic converter?",
+    "reference": "Misfires send unburnt fuel into the catalytic converter, which damages it and leads to a costly replacement.",
+    "reference_contexts": [
+      "Catalytic converter damage when misfires send unburnt fuel into it, leading to costly replacement"
+    ]
+  },
+  {
+    "id": "q15",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "How is a fault diagnosed?",
+    "question": "Where is the OBD-II port usually located and what is it used for?",
+    "reference": "It is usually found under the dashboard near the steering column, and it lets a scan tool read diagnostic trouble codes (DTCs).",
+    "reference_contexts": [
+      "The On-Board Diagnostics (OBD-II) port, usually found under the dashboard near the steering column, lets a scan tool read diagnostic trouble codes (DTCs)."
+    ]
+  },
+  {
+    "id": "q16",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "How is a fault diagnosed?",
+    "question": "What does the fault code P0420 mean?",
+    "reference": "P0420 means catalyst system efficiency is below the threshold.",
+    "reference_contexts": [
+      "P0420 means catalyst system efficiency is below the threshold."
+    ]
+  },
+  {
+    "id": "q17",
+    "answerable": true,
+    "question_type": "factoid",
+    "source_section": "How is a fault diagnosed?",
+    "question": "What voltage should a healthy 12-volt battery show at rest and while the engine is running?",
+    "reference": "About 12.6 volts at rest, and roughly 13.7 to 14.7 volts while the engine is running.",
+    "reference_contexts": [
+      "a healthy 12-volt battery reads about 12.6 volts at rest, and the charging system should show roughly 13.7 to 14.7 volts while the engine is running."
+    ]
+  },
+  {
+    "id": "q18",
+    "answerable": true,
+    "question_type": "table_lookup",
+    "source_section": "Maintenance schedule table",
+    "question": "How often should brake fluid be replaced?",
+    "reference": "Brake fluid should be replaced every 2 years.",
+    "reference_contexts": [
+      "Brake fluid Every 2 years"
+    ]
+  },
+  {
+    "id": "q19",
+    "answerable": true,
+    "question_type": "table_lookup",
+    "source_section": "Maintenance schedule table",
+    "question": "What is the typical timing belt replacement interval?",
+    "reference": "Every 100,000 to 160,000 km, depending on the manufacturer.",
+    "reference_contexts": [
+      "Timing belt 100,000 to 160,000 km, depending on the manufacturer"
+    ]
+  },
+  {
+    "id": "q20",
+    "answerable": true,
+    "question_type": "summary",
+    "source_section": "Maintenance and repair",
+    "question": "What should electric vehicle owners do to slow down battery ageing?",
+    "reference": "They should follow the manufacturer's charging guidance, because frequent DC fast charging and leaving the battery at 100% for long periods can speed up battery ageing.",
+    "reference_contexts": [
+      "frequent DC fast charging and leaving the battery at 100% for long periods can speed up battery ageing"
+    ]
+  },
+  {
+    "id": "oos01",
+    "answerable": false,
+    "question_type": "out_of_scope",
+    "source_section": "none",
+    "question": "What is the price of a Tesla Model 3 in India?",
+    "reference": "The document does not contain this information.",
+    "reference_contexts": []
+  },
+  {
+    "id": "oos02",
+    "answerable": false,
+    "question_type": "out_of_scope",
+    "source_section": "none",
+    "question": "What engine oil viscosity grade, such as 5W-30, does the document recommend?",
+    "reference": "The document does not contain this information.",
+    "reference_contexts": []
+  },
+  {
+    "id": "oos03",
+    "answerable": false,
+    "question_type": "out_of_scope",
+    "source_section": "none",
+    "question": "How many kilometres of range does a Tata Nexon EV deliver on a full charge?",
+    "reference": "The document does not contain this information.",
+    "reference_contexts": []
+  },
+  {
+    "id": "oos04",
+    "answerable": false,
+    "question_type": "out_of_scope",
+    "source_section": "none",
+    "question": "Which car brand has the most reliable transmission?",
+    "reference": "The document does not contain this information.",
+    "reference_contexts": []
+  }
+]
